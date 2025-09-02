@@ -106,8 +106,3 @@ Prediction (Random Forest): Approved
 - scikit-learn
 - matplotlib
 - seaborn
-
-
----
-
-Let me know if you want help customizing the README for GitHub badges, screenshots, or linking to your deployed version once you publish it.
